@@ -22,5 +22,5 @@ projects:
         value: false
       - key: ALLOWED_HOSTS
         value: grammifypoli.onrender.com
-      - key: DATABASE_URL
+
         
